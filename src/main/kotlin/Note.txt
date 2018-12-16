@@ -1,0 +1,30 @@
+-Frequently, you’ll find that during the lifetime of your variable, it only ever needs to refer to one object.
+ Then, you can declare it with val (for “value”).
+
+-The terminology is that var declares a mutable variable, and that val declares a read-only or assign-once variable - so both kinds are called variables.
+
+-Type 	Bits 	Min value 	            Max value
+ Long 	64 	    -9223372036854775808 	9223372036854775807
+ Int 	32 	    -2147483648 	        2147483647
+ Short 	16 	    -32768 	                32767
+ Byte 	8 	    -128 	                127
+
+
+-val result = if (condition) trueBody else falseBody
+
+-Collections
+
+ Arrays in Kotlin have a constant length, so one normally uses lists, which are similar to the ones in Python.
+ What’s called a dict in Python is called a map in Kotlin (not to be confused with the function map()).
+ List, Map, and Set are all interfaces which are implemented by many different classes.
+
+-The while loop is similar to Python (but keep in mind that the condition must be an actual boolean
+ expression, as there’s no concept of truthy or falsy values).
+
+-A plain continue or break works the same way as in Python: continue skips to the next iteration of
+ the innermost containing loop, and break stops the loop.
+
+-The vararg keyword, which allows you to declare a function taking an arbitrary number of arguments
+
+-A function declared inside a class is called a member function of that class.
+-functions in Kotlin are first-class Citizens
