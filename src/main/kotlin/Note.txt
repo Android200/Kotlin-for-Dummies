@@ -28,3 +28,31 @@
 
 -A function declared inside a class is called a member function of that class.
 -functions in Kotlin are first-class Citizens
+
+-Visibility modifiers
+ public (or omitted): this symbol is visible throughout the entire codebase
+ internal: this symbol is only visible inside files that belong to the same module (a source code grouping which is defined by your IDE or build tool) as the file where this symbol is declared
+ private: this symbol is only visible inside the file where this symbol is declared
+ protected: this symbol is only visible inside the containing class and all of its subclasses, no matter where they are declared (so if your class is public and open, anyone can subclass it and thus get to see and use the protected members). If you have used Java: this does not also grant access from the rest of the package.
+
+-Functional and object-oriented
+ As a Java developer, you’re no doubt familiar with the core concepts of object-oriented
+ programming, but functional programming may be new to you. The key concepts of
+ functional programming are as follows:
+
+  First-class functions—You work with functions (pieces of behavior) as values. You
+ can store them in variables, pass them as parameters, or return them from
+ other functions.
+
+  Immutability—You work with immutable objects, which guarantees that their
+ state can’t change after their creation.
+
+  No side effects—You use pure functions that return the same result given the
+ same inputs and don’t modify the state of other objects or interact with the outside world.
+
+- val (from value)—Immutable reference. A variable declared with val can’t be
+ reassigned after it’s initialized. It corresponds to a final variable in Java.
+
+  var (from variable)—Mutable reference. The value of such a variable can be
+ changed. This declaration corresponds to a regular (non-final) Java variable.
+

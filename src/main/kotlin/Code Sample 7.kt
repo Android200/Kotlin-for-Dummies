@@ -30,10 +30,31 @@ fun main(){
     John marry Mary
     John + Mary
 
+    //7
+    callAndPrint { numerator, denominator ->
+        if (denominator == 0) 0.0 else numerator.toDouble()
+    }
+
+    //8
+    callWitPi { it * it }
+
+    //9
+    val boast: Car.() -> String = { "I'm a car with $horsepowers HP"}
+    val car = Car(120)
+    println(car.boast())
 
 
+}
+//Receivers The signature of a member function or an extension function begins with a receiver
+class Car(val horsepowers: Int)
 
+//Function literals: lambda expressions and anonymous functions
+fun callWitPi(function: (Double) -> Double){
+    println(function(3.14))
+}
 
+fun callAndPrint(function: (Int,Int)-> Double){
+    println(function(2,0))
 }
 
 class function_in_Class(val name:String?){
