@@ -1,11 +1,15 @@
 fun main(){
 
     val greetings = happyBirthday("Musa", 12)
+
     val square = square(20)
+
     println(greetings)
+
     println(square)
 
     val count = listOf(1,2,3)
+
     countAndprintArgs(*count.toIntArray())
 
 
@@ -18,6 +22,7 @@ fun happyBirthday(name:String, age:Int):String{
 }
 
 fun square(number:Int) = number * number
+
 fun square(number: Double) = number * number
 
 //vararg = Variable number of arguments

@@ -3,9 +3,13 @@ import java.lang.IllegalArgumentException
 fun main(){
     //1
     val a = Person()
+
     val b = Person()
+
     println("${a.age} ${b.age}")
+
     a.age = 43
+
     println("${a.age} ${b.age}")
 
     //2

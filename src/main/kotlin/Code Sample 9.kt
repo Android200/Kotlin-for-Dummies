@@ -1,3 +1,4 @@
+import java.io.BufferedReader
 import java.util.*
 
 fun main(){
@@ -29,18 +30,41 @@ fun main(){
     //5 enum class
     println(getMnemonic(Color.BLUE))
 
-    //6 Range
-    var alpha: CharRange = 'a'..'z'
+    //6 Range Number
+    var numbers = 1..20
+    for (number in numbers){
+        print("$number, ")
+    }
+    println()
+
+    //7 Range Character
+    var alpha:CharRange = 'A'..'Z'
     for (alphas in alpha){
         print("$alphas, ")
     }
     println()
 
-    //7 Range
-    println(recognize('1'))
+    //8 Range
+    println(recognize('o'))
+
+    //9 Collection
+    val position = listOf("one","two","three","four")
+    println("$position: Last Value: ${position.last()}")
+    val nums  = setOf(1,2,3,50,500,10000)
+    println("$nums: Maximum Number: ${nums.max()}")
+
+    //10 extension functions and properties displays last Character
+    println("Kotlin".lastChar())
+
+    //11 Split
+    println("Initial Value 12.345-6.7.8.9-1-3/5 "+"Split values: 12.345-6.7.8.9-1-3/5".split(".", "-","/"))
 
 
 }
+
+//extension functions and properties
+fun String.lastChar(): Char = get(length - 1)
+
 //in operator to check whether a value is in a range, or its opposite
 fun recognize(c: Char) =
     when(c){

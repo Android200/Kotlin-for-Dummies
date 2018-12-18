@@ -56,3 +56,6 @@
   var (from variable)—Mutable reference. The value of such a variable can be
  changed. This declaration corresponds to a regular (non-final) Java variable.
 
+-an extension function is a simple thing: it’s a function that can be
+ called as a member of a class but is defined outside of it.
+
