@@ -59,3 +59,7 @@
 -an extension function is a simple thing: it’s a function that can be
  called as a member of a class but is defined outside of it.
 
+-Lambda expressions, or simply lambdas, are essentially small chunks of code that can
+ be passed to other functions. With lambdas, you can easily extract common code
+ structures into library functions, and the Kotlin standard library makes heavy use of
+ them. One of the most common uses for lambdas is working with collections.
