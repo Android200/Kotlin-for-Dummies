@@ -85,3 +85,43 @@
   Floating-point number types: Float, Double
   Character type: Char
   Boolean type: Boolean
+
+-Any type is the supertype of all non-nullable types in Kotlin
+ and is analogous to Java’s Object, Unit is an analogue of void.
+ But in Java, Object is a supertype of all reference types only,
+ and primitive types aren’t part of the hierarchy.
+ val answer: Any = 42
+
+-Unit type in Kotlin fulfills the same function as void in Java.
+ It can be used as a return type of a function that has nothing interesting to return
+
+-The Nothing type: “This function never returns"
+ The Nothing type is used as a return type of functions that don’t terminate normally
+ The Nothing type doesn’t have any values, so it only makes sense to use it as a
+ function return type or as a type argument for a type parameter that’s used as a generic
+ function return type.
+
+ fun fail(message: String): Nothing {
+ throw IllegalStateException(message)
+ }
+  fail("Error occurred")
+
+-The in operator, which is used to check whether an object belongs to a collection.
+ The corresponding function is called contains.
+
+-The lazy function returns an object that has a method called getValue with the
+ proper signature, so you can use it together with the by keyword to create a delegated
+ property
+
+-The lazy standard library function provides an easy way to implement lazily
+ initialized properties.
+
+-The Delegates.observable function lets you add an observer of property
+ changes.
+
+-delegated properties. This feature lets you easily implement properties that work in a more
+ complex way than storing values in backing fields, without duplicating the logic in each accessor.
+ For example, properties can store their values in database tables, in a browser session, in a map, and so on.
+
+-By convention, the Delegate class must have getValue and setValue methods
+ (the latter is required only for mutable properties).
