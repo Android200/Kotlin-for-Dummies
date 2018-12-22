@@ -25,7 +25,7 @@ fun saveUser(user: User){
 
     if(user.address.isEmpty()){
         throw IllegalArgumentException(
-            "Can't save user ${user.id}: empty Kotlin_in_Action_Photo.Address"
+            "Can't save user ${user.id}: Address"
         )
     }
 }
@@ -41,5 +41,5 @@ fun saveUsers(user: User){
 
     }
     validate(user.name, "Name")
-    validate(user.address, "Kotlin_in_Action_Photo.Address")
+    validate(user.address, "Address")
 }

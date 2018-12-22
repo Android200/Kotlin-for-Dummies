@@ -65,7 +65,7 @@ fun Personss.countryName():String =  company?.address?.country ?: "Unknown"
 
 //Using throw together with Elvis operator
 fun printShippingLabel(personss: Personss){
-    val address = personss.company?.address ?: throw IllegalArgumentException("No Kotlin_in_Action_Photo.Address")
+    val address = personss.company?.address ?: throw IllegalArgumentException("No Address")
     with(address){
         println(streetAddress)
         println("$zipCode $city, $country")

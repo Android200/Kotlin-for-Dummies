@@ -78,7 +78,7 @@ class A{
 }
 
 class Client(val name: String, val postalCode: Int){
-    override fun toString() = "Kotlin_in_Action_Photo.Client(name=$name, postalCode=$postalCode"
+    override fun toString() = "Client (name=$name, postalCode=$postalCode"
 }
 
 //Length Counter
@@ -103,7 +103,7 @@ class Users constructor(_nickname: String,_isSubScribed: Boolean = true){
 open class RichButton : Clickable {
     final override fun click() {
         //“final” isn’t redundant here because “override” without “final” implies being open.
-        println("Rich Kotlin_in_Action_Photo.Button")
+        println("Rich Button")
 
     }
 }

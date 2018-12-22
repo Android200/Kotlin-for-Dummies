@@ -21,19 +21,19 @@
 -The while loop is similar to Python (but keep in mind that the condition must be an actual boolean
  expression, as there’s no concept of truthy or falsy values).
 
--Kotlin_in_Action_Java.A plain continue or break works the same way as in Python: continue skips to the next iteration of
+-A plain continue or break works the same way as in Python: continue skips to the next iteration of
  the innermost containing loop, and break stops the loop.
 
 -The vararg keyword, which allows you to declare a function taking an arbitrary number of arguments
 
--Kotlin_in_Action_Java.A function declared inside a class is called a member function of that class.
+-A function declared inside a class is called a member function of that class.
 -functions in Kotlin are first-class Citizens
 
 -Visibility modifiers
  public (or omitted): this symbol is visible throughout the entire codebase
  internal: this symbol is only visible inside files that belong to the same module (a source code grouping which is defined by your IDE or build tool) as the file where this symbol is declared
  private: this symbol is only visible inside the file where this symbol is declared
- protected: this symbol is only visible inside the containing class and all of its subclasses, no matter where they are declared (so if your class is public and open, anyone can subclass it and thus Kotlin_in_Action_Java.get to see and use the protected members). If you have used Java: this does not also grant access from the rest of the package.
+ protected: this symbol is only visible inside the containing class and all of its subclasses, no matter where they are declared (so if your class is public and open, anyone can subclass it and thus get to see and use the protected members). If you have used Java: this does not also grant access from the rest of the package.
 
 -Functional and object-oriented
  As a Java developer, you’re no doubt familiar with the core concepts of object-oriented
@@ -50,7 +50,7 @@
   No side effects—You use pure functions that return the same result given the
  same inputs and don’t modify the state of other objects or interact with the outside world.
 
-- val (from value)—Immutable reference. Kotlin_in_Action_Java.A variable declared with val can’t be
+- val (from value)—Immutable reference. A variable declared with val can’t be
  reassigned after it’s initialized. It corresponds to a final variable in Java.
 
   var (from variable)—Mutable reference. The value of such a variable can be
@@ -129,7 +129,7 @@
 -higher-order function is a function that takes another function as an argument or
  returns one.
 
--For example, the Kotlin_in_Action_Java.filter standard-library function takes a predicate
+-For example, the filter standard-library function takes a predicate
  function as an argument and is therefore a higher-order function:
  list.Kotlin_in_Action_Java.filter { x > 0 }
 
