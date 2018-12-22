@@ -125,3 +125,22 @@
 
 -By convention, the Delegate class must have getValue and setValue methods
  (the latter is required only for mutable properties).
+
+-higher-order function is a function that takes another function as an argument or
+ returns one.
+
+-For example, the filter standard-library function takes a predicate
+ function as an argument and is therefore a higher-order function:
+ list.filter { x > 0 }
+
+-When you declare a function as inline, its body is inlined—in other words, it’s substituted
+ directly into places where the function is called instead of being invoked normally.
+
+-Inline functions allow you to use non-local returns—return expressions placed in a lambda that
+ return from the enclosing function.
+
+-Anonymous functions provide an alternative syntax to lambda expressions with different rules for resolving
+ the return expressions. You can use them if you need to write a block of code with multiple exit points.
+
+-Generics allow you to define types that have type parameters. When an instance of such a type is created,
+ type parameters are substituted with specific types called type arguments.
