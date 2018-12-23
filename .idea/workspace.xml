@@ -2,134 +2,94 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f759fbb2-b8a3-448b-a989-7b7ad4b1b307" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Button.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Clickable$DefaultImpls.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Clickable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_15Kt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_16Kt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Company.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Focusable$DefaultImpls.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Focusable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Greeter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Persons.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Personss.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Rectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/RichButton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Users.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/resources/KOTLIN 14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/resources/KOTLIN 15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/resources/KOTLIN 16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/resources/KOTLIN 17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/resources/KOTLIN 18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/resources/KOTLIN 19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 16.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Kotlin_in_Action_Book/Kotlin in Action.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Kotlin_in_Action_Photo/KOTLIN 14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Kotlin_in_Action_Photo/KOTLIN 15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Kotlin_in_Action_Photo/KOTLIN 16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Kotlin_in_Action_Photo/KOTLIN 17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Kotlin_in_Action_Photo/KOTLIN 18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Kotlin_in_Action_Photo/KOTLIN 19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/1 Kotlin - Basic Types.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Kotlin_Tutorial_Point_Photo/KOTLINTUT 1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/A$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/A$Companion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Address.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Address.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Button.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Clickable$DefaultImpls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Clickable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Code_Sample_10Kt$saveUsers$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_10Kt$saveUsers$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Code_Sample_10Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_10Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Code_Sample_11Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_11Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Code_Sample_12Kt$main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_12Kt$main$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Code_Sample_12Kt$main$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_12Kt$main$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Code_Sample_12Kt$main$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_12Kt$main$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Code_Sample_12Kt$main$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_12Kt$main$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Code_Sample_12Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_12Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Code_Sample_13Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_13Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Code_Sample_14Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_14Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Code_Sample_15Kt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_15Kt$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Code_Sample_15Kt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_15Kt$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Code_Sample_15Kt$main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_15Kt$main$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Code_Sample_15Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Code_Sample_2Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_2Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Code_Sample_3Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_3Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Code_Sample_4Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_4Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Code_Sample_5Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_5Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Code_Sample_6Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_6Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Code_Sample_7Kt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_7Kt$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Code_Sample_7Kt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_7Kt$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Code_Sample_7Kt$main$boast$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_7Kt$main$boast$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Code_Sample_7Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_7Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Code_Sample_8Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_8Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Code_Sample_9Kt$WhenMappings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_9Kt$WhenMappings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Code_Sample_9Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_9Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Color.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Company.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Focusable$DefaultImpls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Focusable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Humans.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Humans.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/LengthCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/LengthCounter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/JavaCollectionsUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Java_People.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/A$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Button.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Clickable$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Clickable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_10Kt$saveUsers$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_10Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_11Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_12Kt$main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_12Kt$main$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_12Kt$main$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_12Kt$main$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_12Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_13Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_14Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_15Kt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_15Kt$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_15Kt$main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_15Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_16Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_2Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_3Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_4Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_5Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_6Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_7Kt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_7Kt$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_7Kt$main$boast$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_7Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_8Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_9Kt$WhenMappings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Code_Sample_9Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Company.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Focusable$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Focusable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Greeter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Humans.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/LengthCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Married.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/MutablePoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Mutane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Mutun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/My_People.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/NameComponents.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Personal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Personnel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Persons.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Personss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/RichButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Users.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/function_in_Class.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/kot.in.New-Kotlin.main.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/META-INF/kot.in.New-Kotlin.main.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Married.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Married.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/MutablePoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/MutablePoint.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Mutane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Mutane.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Mutun.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Mutun.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/My_People.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/My_People.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/NameComponents.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/NameComponents.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Personal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Personal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Personnel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Personnel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Persons.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Personss.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/Point.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/RichButton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Users.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/function_in_Class.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_in_Action/function_in_Class.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaCollectionsUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Kotlin_in_Action_Java/JavaCollectionsUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java_People.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Kotlin_in_Action_Java/Java_People.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Kotlin_in_Action_Java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Code Sample 10.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 10.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Code Sample 11.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 11.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Code Sample 12.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 12.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Code Sample 13.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 13.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Code Sample 14.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 14.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Code Sample 15.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 15.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Code Sample 2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Code Sample 3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 3.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Code Sample 4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 4.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Code Sample 5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 5.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Code Sample 6.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 6.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Code Sample 7.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 7.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Code Sample 8.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 8.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Code Sample 9.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 9.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Note.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/KOTLIN 10.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Kotlin_in_Action_Photo/KOTLIN 10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/KOTLIN 11.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Kotlin_in_Action_Photo/KOTLIN 11.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/KOTLIN 12.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Kotlin_in_Action_Photo/KOTLIN 12.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/KOTLIN 13.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Kotlin_in_Action_Photo/KOTLIN 13.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/KOTLIN 2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Kotlin_in_Action_Photo/KOTLIN 2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/KOTLIN 3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Kotlin_in_Action_Photo/KOTLIN 3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/KOTLIN 4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Kotlin_in_Action_Photo/KOTLIN 4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/KOTLIN 5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Kotlin_in_Action_Photo/KOTLIN 5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/KOTLIN 6.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Kotlin_in_Action_Photo/KOTLIN 6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/KOTLIN 8.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Kotlin_in_Action_Photo/KOTLIN 8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/KOTLIN 9.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Kotlin_in_Action_Photo/KOTLIN 9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/KOTLIN.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Kotlin_in_Action_Photo/KOTLIN.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/KOTLIN7.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Kotlin_in_Action_Photo/KOTLIN7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/KOTLIN 10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/KOTLIN 11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/KOTLIN 12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/KOTLIN 13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/KOTLIN 14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/KOTLIN 15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/KOTLIN 16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/KOTLIN 17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/KOTLIN 18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/KOTLIN 19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/KOTLIN 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/KOTLIN 3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/KOTLIN 4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/KOTLIN 5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/KOTLIN 6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/KOTLIN 8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/KOTLIN 9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/KOTLIN.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/KOTLIN7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -195,10 +155,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="225">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 16.kt">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/1 Kotlin - Basic Types.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="37" column="62" lean-forward="true" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="62" />
+            <state relative-caret-position="292">
+              <caret line="72" column="4" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -260,6 +220,11 @@
         <option value="$PROJECT_DIR$/src/main/java/Kotlin_in_Action_Java/JavaCollectionsUtils.java" />
         <option value="$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 2.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 16.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 10.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 11.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 12.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Note.txt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/1 Kotlin - Basic Types.kt" />
       </list>
     </option>
   </component>
@@ -269,7 +234,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="4">
     <option name="y" value="28" />
     <option name="width" value="683" />
     <option name="height" value="740" />
@@ -323,7 +288,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="Kotlin_in_Action_Kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="Kotlin_Tutorial_Point" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="New-Kotlin" type="b2602c69:ProjectViewProjectNode" />
@@ -331,6 +296,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="New-Kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="New-Kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Kotlin_Tutorial_Point_Photo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -341,7 +314,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545520324349" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545556691273" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GenericSQL" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -360,6 +333,8 @@
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/Kotlin_Tutorial_Point_Photo" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point" />
       <recent name="$PROJECT_DIR$/src/main/resources/Kotlin_in_Action" />
       <recent name="$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action" />
       <recent name="$PROJECT_DIR$/src/main/resources" />
@@ -377,10 +352,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Kotlin_in_Action_Java.Code_Sample_8Kt">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kotlin_in_Action_Java.Main" />
+  <component name="RunManager" selected="Kotlin.Kotlin_Tutorial_Point._1_Kotlin___Basic_TypesKt">
+    <configuration name="Kotlin_Tutorial_Point._1_Kotlin___Basic_TypesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kot.in.New-Kotlin.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Kotlin_Tutorial_Point._1_Kotlin___Basic_TypesKt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -393,19 +374,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="Kotlin_in_Action_Java.Code_Sample_12Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Kotlin_in_Action_Java.Code_Sample_15Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="kot.in.New-Kotlin.main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Kotlin_in_Action_Java.Code_Sample_15Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -463,13 +431,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Kotlin_in_Action_Kotlin.Code_Sample_8Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kot.in.New-Kotlin.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Kotlin_in_Action_Kotlin.Code_Sample_8Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Kotlin_Tutorial_Point._1_Kotlin___Basic_TypesKt" />
+        <item itemvalue="Kotlin.Kotlin_in_Action_Kotlin.Code_Sample_8Kt" />
         <item itemvalue="Kotlin.Kotlin_in_Action_Java.Code_Sample_8Kt" />
         <item itemvalue="Kotlin.Kotlin_in_Action_Java.Code_Sample_9Kt" />
         <item itemvalue="Kotlin.Kotlin_in_Action_Java.Code_Sample_16Kt" />
-        <item itemvalue="Kotlin.Kotlin_in_Action_Java.Code_Sample_15Kt" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -491,12 +472,12 @@
       <workItem from="1545218393202" duration="65000" />
       <workItem from="1545218932949" duration="8689000" />
       <workItem from="1545237748208" duration="9236000" />
-      <workItem from="1545305510422" duration="38196000" />
+      <workItem from="1545305510422" duration="44001000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121456000" />
+    <option name="totallyTimeSpent" value="127261000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -508,9 +489,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="28" width="1366" height="740" extended-state="7" />
+    <frame x="0" y="28" width="683" height="740" extended-state="4" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27586207" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.41935483" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -519,19 +501,19 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3306189" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31921825" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32854864" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.29967427" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.29967427" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32736155" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="13" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.3257329" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32436976" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24884793" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -593,13 +575,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///usr/lib/jvm/jdk-11.0.1/lib/src.zip!/java.base/java/time/Instant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13">
-          <caret line="1229" column="16" selection-start-line="1229" selection-start-column="16" selection-end-line="1229" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/KOTLIN.png" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/Kotlin_in_Action_Photo/KOTLIN.png">
       <provider selected="true" editor-type-id="images" />
@@ -717,124 +692,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Note.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="942">
-          <caret line="177" selection-start-line="177" selection-end-line="177" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 15.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="81" column="44" selection-start-line="81" selection-start-column="44" selection-end-line="81" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 14.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-          <folding>
-            <element signature="e#26#81#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 13.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 12.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="84" selection-start-line="84" selection-end-line="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 11.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="130" selection-start-line="130" selection-end-line="130" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 10.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 9.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="75" column="36" selection-start-line="75" selection-start-column="36" selection-end-line="75" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 7.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-871">
-          <caret line="20" column="7" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 6.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 5.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="611">
-          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 4.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 8.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 3.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 2.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="8" column="65" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Main.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Main.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Kotlin_in_Action_Java/JavaCollectionsUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
@@ -860,10 +717,132 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="8" column="65" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 3.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 4.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 5.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 6.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 7.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-364">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 9.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="75" column="36" selection-start-line="75" selection-start-column="36" selection-end-line="75" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 10.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 13.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 8.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 11.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-130">
+          <caret line="80" column="38" selection-start-line="80" selection-start-column="38" selection-end-line="80" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 12.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="832">
+          <caret line="67" column="82" selection-start-line="67" selection-start-column="82" selection-end-line="67" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Kotlin_Tutorial_Point_Photo/KOTLINTUT 1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 14.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1547">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 15.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="81" column="44" selection-start-line="81" selection-start-column="44" selection-end-line="81" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Code Sample 16.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="37" column="62" lean-forward="true" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="62" />
+        <state relative-caret-position="52">
+          <caret line="37" column="62" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_in_Action_Kotlin/Note.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1703">
+          <caret line="131" column="18" selection-start-line="131" selection-start-column="18" selection-end-line="131" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/1 Kotlin - Basic Types.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="72" column="4" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="4" />
         </state>
       </provider>
     </entry>
