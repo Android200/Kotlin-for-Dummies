@@ -12,6 +12,7 @@ fun main(){
         max = b
     }
     println("Maximum of $max")
+    println("Detecting Maximum using function ${bigger(a,b)}")
 
     println()
     //1 If-Else Method 2
@@ -102,3 +103,5 @@ fun main(){
 fun doubleMe(m:Int):Int{
     return 2*m
 }
+
+fun bigger(a: Int, b: Int) = if (a > b) a else b

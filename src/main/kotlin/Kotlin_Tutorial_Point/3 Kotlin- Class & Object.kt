@@ -28,7 +28,23 @@ fun main(){
     }
     programmer.think()
 
+    //5 Properties with assessors
+    val personss = Personss("umar","saidu")
+    println(personss.fullName)
+    println(personss.name)
+    println(personss.surname)
 
+
+}
+//5 Properties with assessors
+class Personss(var name: String, var surname: String) {
+    var fullName: String
+    get() = "$name $surname"
+    set(value) {
+        val (first, rest) = value.split(" ", limit = 2)
+        name = first
+        surname = rest
+    }
 }
 
 //4 Anonymous Inner Class
