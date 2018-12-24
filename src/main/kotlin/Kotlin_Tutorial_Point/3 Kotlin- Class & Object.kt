@@ -52,7 +52,7 @@ class Outers{
 
 
 //2 Nested Class
-//In Kotlin, nested class is by default static, hence, it can be accessed without creating any object of that class.
+//In Kotlin, nested class is by default static, //2 Constructorhence, it can be accessed without creating any object of that class.
 class Outer{
 
     class Nested{
