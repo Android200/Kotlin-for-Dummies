@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f759fbb2-b8a3-448b-a989-7b7ad4b1b307" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/6 Kotlin-Interface.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/7 Kotlin-Visibility Control.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/kot.in.New-Kotlin.main.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/META-INF/kot.in.New-Kotlin.main.kotlin_module" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -80,7 +81,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/2 Kotlin-Control Flow.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
+            <state relative-caret-position="1196">
               <caret line="92" column="59" selection-start-line="92" selection-start-column="59" selection-end-line="92" selection-end-column="59" />
             </state>
           </provider>
@@ -107,17 +108,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/5  Kotlin-Inheritance.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-162">
+            <state relative-caret-position="52">
               <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/6 Kotlin-Interface.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+            <state relative-caret-position="299">
+              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/7 Kotlin-Visibility Control.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="65">
+              <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -189,6 +199,7 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/4 Kotlin-Constructors.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/5  Kotlin-Inheritance.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/6 Kotlin-Interface.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/7 Kotlin-Visibility Control.kt" />
       </list>
     </option>
   </component>
@@ -270,7 +281,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545636860498" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545640496396" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GenericSQL" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -308,22 +319,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Kotlin_Tutorial_Point._6_Kotlin_InterfaceKt">
+  <component name="RunManager" selected="Kotlin.Kotlin_Tutorial_Point._7_Kotlin_Visibility_ControlKt">
     <configuration default="true" type="AndroidJUnit">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Kotlin_Tutorial_Point._2_Kotlin_Control_FlowKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="kot.in.New-Kotlin.main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Kotlin_Tutorial_Point._2_Kotlin_Control_FlowKt" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -380,6 +378,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Kotlin_Tutorial_Point._7_Kotlin_Visibility_ControlKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kot.in.New-Kotlin.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Kotlin_Tutorial_Point._7_Kotlin_Visibility_ControlKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Kotlin_in_Action_Java.Code_Sample_12Kt" type="JetRunConfigurationType" factoryName="Kotlin" nameIsGenerated="true">
       <module name="kot.in.New-Kotlin.main" />
       <option name="VM_PARAMETERS" />
@@ -408,11 +419,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Kotlin_Tutorial_Point._7_Kotlin_Visibility_ControlKt" />
         <item itemvalue="Kotlin.Kotlin_Tutorial_Point._6_Kotlin_InterfaceKt" />
         <item itemvalue="Kotlin.Kotlin_Tutorial_Point._5__Kotlin_InheritanceKt" />
         <item itemvalue="Kotlin.Kotlin_Tutorial_Point._4_Kotlin_ConstructorsKt" />
         <item itemvalue="Kotlin.Kotlin_Tutorial_Point._3_Kotlin__Class___ObjectKt" />
-        <item itemvalue="Kotlin.Kotlin_Tutorial_Point._2_Kotlin_Control_FlowKt" />
       </list>
     </recent_temporary>
   </component>
@@ -439,12 +450,13 @@
       <workItem from="1545558832427" duration="1123000" />
       <workItem from="1545560035503" duration="6884000" />
       <workItem from="1545576025084" duration="4472000" />
-      <workItem from="1545612172745" duration="6235000" />
+      <workItem from="1545612172745" duration="9409000" />
+      <workItem from="1545641940486" duration="950000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147672000" />
+    <option name="totallyTimeSpent" value="151796000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -456,7 +468,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="28" width="683" height="740" extended-state="4" />
+    <frame x="0" y="28" width="1366" height="740" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.3686636" />
@@ -468,7 +480,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3277311" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32736155" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -480,7 +492,7 @@
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32436976" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="13" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.3210084" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32084692" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24884793" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -542,13 +554,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.10/eedd46031f8f5dc8c088e7d52f136d855fc1bddb/kotlin-stdlib-1.3.10-sources.jar!/kotlin/Primitives.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-425">
-          <caret line="389" column="13" selection-start-line="389" selection-start-column="13" selection-end-line="389" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.10/eedd46031f8f5dc8c088e7d52f136d855fc1bddb/kotlin-stdlib-1.3.10-sources.jar!/kotlin/Any.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -798,7 +803,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/2 Kotlin-Control Flow.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
+        <state relative-caret-position="1196">
           <caret line="92" column="59" selection-start-line="92" selection-start-column="59" selection-end-line="92" selection-end-column="59" />
         </state>
       </provider>
@@ -819,15 +824,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/5  Kotlin-Inheritance.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-162">
+        <state relative-caret-position="52">
           <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/6 Kotlin-Interface.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        <state relative-caret-position="299">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/7 Kotlin-Visibility Control.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
         </state>
       </provider>
     </entry>
