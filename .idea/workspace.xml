@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f759fbb2-b8a3-448b-a989-7b7ad4b1b307" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/11 Kotlin-Generics.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/12 Kotlin-Delegation.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -140,11 +140,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/11 Kotlin-Generics.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+            <state relative-caret-position="464">
+              <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/12 Kotlin-Delegation.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="45" column="11" lean-forward="true" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -221,6 +230,7 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/9 Kotlin-Data Class.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/10 Kotlin-Sealed Class.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/11 Kotlin-Generics.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/12 Kotlin-Delegation.kt" />
       </list>
     </option>
   </component>
@@ -302,7 +312,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545648890132" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545650919165" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GenericSQL" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -340,7 +350,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Kotlin_Tutorial_Point._11_Kotlin_GenericsKt">
+  <component name="RunManager" selected="Kotlin.Kotlin_Tutorial_Point._12_Kotlin_DelegationKt">
     <configuration default="true" type="AndroidJUnit">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -373,14 +383,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kotlin_Tutorial_Point._7_Kotlin_Visibility_ControlKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Kotlin_Tutorial_Point._12_Kotlin_DelegationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kot.in.New-Kotlin.main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Kotlin_Tutorial_Point._7_Kotlin_Visibility_ControlKt" />
+      <option name="MAIN_CLASS_NAME" value="Kotlin_Tutorial_Point._12_Kotlin_DelegationKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -440,11 +450,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Kotlin_Tutorial_Point._12_Kotlin_DelegationKt" />
         <item itemvalue="Kotlin.Kotlin_Tutorial_Point._11_Kotlin_GenericsKt" />
         <item itemvalue="Kotlin.Kotlin_Tutorial_Point._10_Kotlin_Sealed_ClassKt" />
         <item itemvalue="Kotlin.Kotlin_Tutorial_Point._9_Kotlin_Data_ClassKt" />
         <item itemvalue="Kotlin.Kotlin_Tutorial_Point._8_Kotlin_ExtensionKt" />
-        <item itemvalue="Kotlin.Kotlin_Tutorial_Point._7_Kotlin_Visibility_ControlKt" />
       </list>
     </recent_temporary>
   </component>
@@ -472,12 +482,12 @@
       <workItem from="1545560035503" duration="6884000" />
       <workItem from="1545576025084" duration="4472000" />
       <workItem from="1545612172745" duration="9409000" />
-      <workItem from="1545641940486" duration="5389000" />
+      <workItem from="1545641940486" duration="7451000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156235000" />
+    <option name="totallyTimeSpent" value="158297000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -575,9 +585,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Kotlin_in_Action_Photo/KOTLIN 11.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/Kotlin_in_Action_Photo/KOTLIN 12.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -875,8 +882,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/11 Kotlin-Generics.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+        <state relative-caret-position="464">
+          <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/12 Kotlin-Delegation.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="45" column="11" lean-forward="true" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
         </state>
       </provider>
     </entry>
