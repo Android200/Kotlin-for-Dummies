@@ -21,11 +21,6 @@ fun main(){
     val human1 = Humans("Musa", 20)
     println("${human1.message} ${human1.firstName} welcome to example of Secondary " +
             "constructor, Your Age is - ${human1.age}")
-
-
-
-
-
 }
 
 //1 Comstructor

@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f759fbb2-b8a3-448b-a989-7b7ad4b1b307" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/4 Kotlin-Constructors.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/5  Kotlin-Inheritance.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/3 Kotlin- Class &amp; Object.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/3 Kotlin- Class &amp; Object.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_Tutorial_Point/Humans.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_Tutorial_Point/Humans.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_Tutorial_Point/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_Tutorial_Point/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Kotlin_Tutorial_Point/_4_Kotlin_ConstructorsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Kotlin_Tutorial_Point/_4_Kotlin_ConstructorsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/4 Kotlin-Constructors.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/4 Kotlin-Constructors.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -90,17 +93,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/3 Kotlin- Class &amp; Object.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
+            <state relative-caret-position="702">
               <caret line="54" column="63" selection-start-line="54" selection-start-column="63" selection-end-line="54" selection-end-column="63" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/4 Kotlin-Constructors.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="52">
+              <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/5  Kotlin-Inheritance.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -170,6 +182,7 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/2 Kotlin-Control Flow.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/3 Kotlin- Class &amp; Object.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/4 Kotlin-Constructors.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/5  Kotlin-Inheritance.kt" />
       </list>
     </option>
   </component>
@@ -251,7 +264,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545634478865" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545635646740" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GenericSQL" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -289,7 +302,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Kotlin_Tutorial_Point._4_Kotlin_ConstructorsKt">
+  <component name="RunManager" selected="Kotlin.Kotlin_Tutorial_Point._5__Kotlin_InheritanceKt">
     <configuration default="true" type="AndroidJUnit">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -348,6 +361,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Kotlin_Tutorial_Point._5__Kotlin_InheritanceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kot.in.New-Kotlin.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Kotlin_Tutorial_Point._5__Kotlin_InheritanceKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Kotlin_in_Action_Java.Code_Sample_12Kt" type="JetRunConfigurationType" factoryName="Kotlin" nameIsGenerated="true">
       <module name="kot.in.New-Kotlin.main" />
       <option name="VM_PARAMETERS" />
@@ -374,26 +400,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kotlin_in_Action_Kotlin.Code_Sample_8Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="kot.in.New-Kotlin.main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Kotlin_in_Action_Kotlin.Code_Sample_8Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Kotlin_Tutorial_Point._5__Kotlin_InheritanceKt" />
         <item itemvalue="Kotlin.Kotlin_Tutorial_Point._4_Kotlin_ConstructorsKt" />
         <item itemvalue="Kotlin.Kotlin_Tutorial_Point._3_Kotlin__Class___ObjectKt" />
         <item itemvalue="Kotlin.Kotlin_Tutorial_Point._2_Kotlin_Control_FlowKt" />
         <item itemvalue="Kotlin.Kotlin_Tutorial_Point._1_Kotlin___Basic_TypesKt" />
-        <item itemvalue="Kotlin.Kotlin_in_Action_Kotlin.Code_Sample_8Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -420,12 +433,12 @@
       <workItem from="1545558832427" duration="1123000" />
       <workItem from="1545560035503" duration="6884000" />
       <workItem from="1545576025084" duration="4472000" />
-      <workItem from="1545612172745" duration="3380000" />
+      <workItem from="1545612172745" duration="4576000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144817000" />
+    <option name="totallyTimeSpent" value="146013000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -440,7 +453,7 @@
     <frame x="0" y="28" width="683" height="740" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.37019968" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3686636" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -523,9 +536,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Kotlin_in_Action_Photo/KOTLIN 5.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/.attach_pid31806">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -792,15 +802,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/3 Kotlin- Class &amp; Object.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
+        <state relative-caret-position="702">
           <caret line="54" column="63" selection-start-line="54" selection-start-column="63" selection-end-line="54" selection-end-column="63" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/4 Kotlin-Constructors.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="52">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/5  Kotlin-Inheritance.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
