@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f759fbb2-b8a3-448b-a989-7b7ad4b1b307" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/14 Kotlin-Destructuring Declarations.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/15 Kotlin-Exception Handling.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -78,15 +78,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/6 Kotlin-Interface.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/7 Kotlin-Visibility Control.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
@@ -149,11 +140,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/14 Kotlin-Destructuring Declarations.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+            <state relative-caret-position="78">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/15 Kotlin-Exception Handling.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="65">
+              <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -182,7 +182,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/kotlin/test.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/Code Sample 1.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/Code Sample 2.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/main.kt" />
@@ -233,6 +232,7 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/12 Kotlin-Delegation.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/13 Kotlin-Functions.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/14 Kotlin-Destructuring Declarations.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/15 Kotlin-Exception Handling.kt" />
       </list>
     </option>
   </component>
@@ -314,7 +314,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545653751367" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545654232173" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GenericSQL" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -352,22 +352,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Kotlin_Tutorial_Point._14_Kotlin_Destructuring_DeclarationsKt">
+  <component name="RunManager" selected="Kotlin.Kotlin_Tutorial_Point._15_Kotlin_Exception_HandlingKt">
     <configuration default="true" type="AndroidJUnit">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Kotlin_Tutorial_Point._10_Kotlin_Sealed_ClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="kot.in.New-Kotlin.main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Kotlin_Tutorial_Point._10_Kotlin_Sealed_ClassKt" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -424,6 +411,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Kotlin_Tutorial_Point._15_Kotlin_Exception_HandlingKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kot.in.New-Kotlin.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Kotlin_Tutorial_Point._15_Kotlin_Exception_HandlingKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Kotlin_in_Action_Java.Code_Sample_12Kt" type="JetRunConfigurationType" factoryName="Kotlin" nameIsGenerated="true">
       <module name="kot.in.New-Kotlin.main" />
       <option name="VM_PARAMETERS" />
@@ -452,11 +452,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Kotlin_Tutorial_Point._15_Kotlin_Exception_HandlingKt" />
         <item itemvalue="Kotlin.Kotlin_Tutorial_Point._14_Kotlin_Destructuring_DeclarationsKt" />
         <item itemvalue="Kotlin.Kotlin_Tutorial_Point._13_Kotlin_FunctionsKt" />
         <item itemvalue="Kotlin.Kotlin_Tutorial_Point._12_Kotlin_DelegationKt" />
         <item itemvalue="Kotlin.Kotlin_Tutorial_Point._11_Kotlin_GenericsKt" />
-        <item itemvalue="Kotlin.Kotlin_Tutorial_Point._10_Kotlin_Sealed_ClassKt" />
       </list>
     </recent_temporary>
   </component>
@@ -484,12 +484,12 @@
       <workItem from="1545560035503" duration="6884000" />
       <workItem from="1545576025084" duration="4472000" />
       <workItem from="1545612172745" duration="9409000" />
-      <workItem from="1545641940486" duration="10201000" />
+      <workItem from="1545641940486" duration="10682000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="161047000" />
+    <option name="totallyTimeSpent" value="161528000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -513,7 +513,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32605043" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32605043" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -587,9 +587,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Kotlin_in_Action_Photo/KOTLIN 13.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.10/eedd46031f8f5dc8c088e7d52f136d855fc1bddb/kotlin-stdlib-1.3.10-sources.jar!/kotlin/String.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -895,8 +892,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/14 Kotlin-Destructuring Declarations.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+        <state relative-caret-position="78">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Kotlin_Tutorial_Point/15 Kotlin-Exception Handling.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
         </state>
       </provider>
     </entry>
